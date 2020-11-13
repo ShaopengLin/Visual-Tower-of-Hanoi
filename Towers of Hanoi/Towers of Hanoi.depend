@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1556811323 source:c:\users\admin\desktop\version\coursework-chris-lin\towers of hanoi\mainhanoi.cpp
+	"prototypesHanoi.h"
+
+1556038482 c:\users\admin\desktop\version\coursework-chris-lin\towers of hanoi\allegroinit.h
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+
+1556037943 source:c:\users\admin\desktop\version\coursework-chris-lin\towers of hanoi\test.cpp
+	"allegroInit.h"
+
+1556038435 source:c:\users\admin\desktop\version\coursework-chris-lin\towers of hanoi\what.cpp
+	"allegroInit.h"
+
+1556560748 source:c:\users\admin\desktop\version\coursework-chris-lin\towers of hanoi\allegroinit.cpp
+	"prototypesHanoi.h"
+
+1556811323 c:\users\admin\desktop\version\coursework-chris-lin\towers of hanoi\prototypeshanoi.h
+	<iostream>
+	<apvector.h>
+	<apstring.h>
+	<string>
+	<time.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	"pegClass.h"
+
+1556039111 source:c:\users\admin\desktop\version\coursework-chris-lin\towers of hanoi\ringclass.cpp
+
+1556116626 c:\users\admin\desktop\version\coursework-chris-lin\towers of hanoi\ringclass.h
+	<iostream>
+
+1556577924 source:c:\users\admin\desktop\version\coursework-chris-lin\towers of hanoi\pegclass.cpp
+	"pegClass.h"
+
+1556550285 c:\users\admin\desktop\version\coursework-chris-lin\towers of hanoi\pegclass.h
+	"prototypesHanoi.h"
+
+1556338705 c:\users\admin\desktop\version\coursework-chris-lin\towers of hanoi\prototypefunctionshanoi.h
+
+1556559282 source:c:\users\admin\desktop\version\coursework-chris-lin\towers of hanoi\drawfunctions.cpp
+	"prototypesHanoi.h"
+	<apstring.cpp>
+
+1556560458 source:c:\users\admin\desktop\version\coursework-chris-lin\towers of hanoi\hitbox.cpp
+	"prototypesHanoi.h"
+
+1556560301 source:c:\users\admin\desktop\version\coursework-chris-lin\towers of hanoi\operationfunctions.cpp
+	"prototypesHanoi.h"
+
